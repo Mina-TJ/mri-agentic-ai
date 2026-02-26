@@ -7,7 +7,7 @@
 ---
 
 ## Demo Video
-> 🎬 [LinkedIn Demo Link — ]
+> 🎬 [LinkedIn Demo Link — ] 
 
 ---
 
