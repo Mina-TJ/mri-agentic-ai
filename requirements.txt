@@ -1,0 +1,17 @@
+# MRI Reservation System — Python dependencies
+# Install with: pip install -r requirements.txt
+
+# Core
+langgraph>=0.2.0
+langchain>=0.3.0
+langchain-openai>=0.2.0
+openai>=1.50.0
+
+# Environment
+python-dotenv>=1.0.0
+
+# Utilities
+typing-extensions>=4.9.0
+
+# Testing (optional)
+pytest>=8.0.0

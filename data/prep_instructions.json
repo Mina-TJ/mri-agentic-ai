@@ -1,0 +1,70 @@
+{
+  "prep_instructions": {
+    "brain_mri": {
+      "scan_name": "Brain MRI",
+      "duration": "45-60 minutes",
+      "instructions": [
+        "Remove all metal objects including jewellery, piercings, hairpins, and hearing aids before the scan.",
+        "Inform the technician if you have any metal implants, pacemakers, or surgical clips.",
+        "You may eat and drink normally before a brain MRI unless instructed otherwise.",
+        "Wear comfortable, loose-fitting clothing with no metal zippers or buttons.",
+        "Inform your technician if you are claustrophobic — sedation options are available.",
+        "Arrive 15 minutes early to complete paperwork."
+      ],
+      "contraindications": [
+        "Pacemakers or implantable cardiac defibrillators",
+        "Cochlear implants",
+        "Certain aneurysm clips",
+        "Metal fragments in eyes"
+      ]
+    },
+    "knee_mri": {
+      "scan_name": "Knee MRI",
+      "duration": "30-45 minutes",
+      "instructions": [
+        "Remove all metal objects before the scan.",
+        "Wear loose, comfortable shorts if possible, or you will be provided a gown.",
+        "You may eat and drink normally before a knee MRI.",
+        "Inform your technician of any previous knee surgeries or metal implants.",
+        "Arrive 15 minutes early."
+      ],
+      "contraindications": [
+        "Certain knee replacement components (verify with your surgeon)",
+        "Metal fragments near the scan area"
+      ]
+    },
+    "spine_mri": {
+      "scan_name": "Spine MRI",
+      "duration": "45-70 minutes",
+      "instructions": [
+        "Remove all metal objects including jewellery, belts, and underwire bras.",
+        "Inform the technician of any spinal hardware, rods, or surgical implants.",
+        "You may eat and drink normally unless contrast dye is being used.",
+        "If contrast dye is required, fast for 4 hours before the scan.",
+        "Wear comfortable clothing with no metal fastenings.",
+        "Arrive 15 minutes early; if contrast is ordered, arrive 30 minutes early."
+      ],
+      "contraindications": [
+        "Certain spinal cord stimulators",
+        "Pacemakers",
+        "Metal implants near the spine (requires pre-scan verification)"
+      ]
+    },
+    "general": {
+      "scan_name": "General MRI",
+      "duration": "30-60 minutes",
+      "instructions": [
+        "Remove all metal objects before entering the MRI suite.",
+        "Inform staff of any implants, surgical hardware, or metal fragments in your body.",
+        "Wear comfortable, loose-fitting clothing.",
+        "Follow any specific fasting instructions provided by your referring physician.",
+        "Arrive 15 minutes before your scheduled time.",
+        "Inform staff if you are pregnant or may be pregnant."
+      ],
+      "contraindications": [
+        "Active pacemakers or cardiac devices",
+        "Certain metallic implants — always disclose your full medical history"
+      ]
+    }
+  }
+}

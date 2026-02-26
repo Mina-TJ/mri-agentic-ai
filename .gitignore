@@ -1,0 +1,23 @@
+# Environment — NEVER commit
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Logs (optional — you may want to commit sample logs for demo evidence)
+logs/*.json
+logs/*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,55 @@
+{
+  "patients": {
+    "BK-1001": {
+      "booking_id": "BK-1001",
+      "first_name": "Sarah",
+      "last_name": "Chen",
+      "dob": "1985-03-22",
+      "phone": "902-555-0101",
+      "email": "s.chen@email.com",
+      "appointment": {
+        "date": "2026-02-28",
+        "time": "10:00",
+        "scan_type": "brain_mri",
+        "location": "Halifax MRI Centre, Room 3",
+        "technician": "Dr. Patel",
+        "status": "scheduled",
+        "reschedule_count": 0
+      }
+    },
+    "BK-1002": {
+      "booking_id": "BK-1002",
+      "first_name": "James",
+      "last_name": "Murphy",
+      "dob": "1972-11-08",
+      "phone": "902-555-0202",
+      "email": "j.murphy@email.com",
+      "appointment": {
+        "date": "2026-02-25",
+        "time": "14:30",
+        "scan_type": "knee_mri",
+        "location": "Halifax MRI Centre, Room 1",
+        "technician": "Dr. Reeves",
+        "status": "reschedule_pending",
+        "reschedule_count": 3
+      }
+    },
+    "BK-1003": {
+      "booking_id": "BK-1003",
+      "first_name": "Aisha",
+      "last_name": "Okafor",
+      "dob": "1990-07-15",
+      "phone": "902-555-0303",
+      "email": "a.okafor@email.com",
+      "appointment": {
+        "date": "2026-03-15",
+        "time": "09:00",
+        "scan_type": "spine_mri",
+        "location": "Halifax MRI Centre, Room 2",
+        "technician": "Dr. Kim",
+        "status": "cancelled",
+        "reschedule_count": 0
+      }
+    }
+  }
+}
