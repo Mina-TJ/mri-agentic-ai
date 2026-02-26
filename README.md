@@ -7,7 +7,7 @@
 ---
 
 ## Demo Video
-> 🎬 [LinkedIn Demo Link — add after recording]
+> 🎬 [LinkedIn Demo Link — ]
 
 ---
 
@@ -88,7 +88,7 @@ OPENAI_API_KEY=your-real-api-key-here
 OPENAI_MODEL=gpt-4o-mini
 ```
 
-> ⚠️ **Never commit `.env` to GitHub.** It is in `.gitignore`.
+> ⚠️`.env` is in `.gitignore`.
 
 ---
 
