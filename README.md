@@ -230,4 +230,4 @@ Test coverage includes:
 
 ---
 
-*Instructor: Michael Zhang · Sobey School of Business, Saint Mary's University*
+*Instructor: Professor Michael Zhang · Sobey School of Business, Saint Mary's University*
